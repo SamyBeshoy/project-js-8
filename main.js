@@ -12,7 +12,7 @@ justify-content: center;
 align-items: center;
 font-weight: bold;
 font-size: 30px;
-margin: 30px;
+margin: 0 30px;
 `;
 // online
 let online_text = document.createElement("div");
